@@ -2,7 +2,7 @@
     "lithium": {
         "filename": "lithium.csv",
         "description": "Data of lithium abundances and stellar parameters from  M. L. L. Dantas et al. (2025) doi: 10.1051/0004-6361/202554305",
-        "columns": ["[Fe/H]","A(Li)","$\overline{t}_{\star}$","M","T$_{eff}$","e","Z$_{max}$","$L_z$"]
+        "columns": ["[Fe/H]","A(Li)","$\\overline{t}_{\\star}$","M","T$_{eff}$","e","Z$_{max}$","$L_z$"]
     },
     "large_correlations": {
         "filename": "large_correlations.csv",
